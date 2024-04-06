@@ -18,6 +18,11 @@ PoissonDisc in Rectangle (with connection Visualizer):
 
 ![image](https://github.com/loamtor/Rbx-PoissonDisc/assets/118779491/b13a7846-7eb0-41ec-bd5f-05d109285d03)
 
+PoissonDisc in Rectangle (no connection Visualizer):
+
+![image](https://github.com/loamtor/Rbx-PoissonDisc/assets/118779491/e4422cd8-9ba9-474a-8e78-ef9b1d2380b8)
+
+
 PoissonDisc in Rectangular Prism (3d) without connections shown:
 
 ![image](https://github.com/loamtor/Rbx-PoissonDisc/assets/118779491/2d5c0fe5-6a7c-4503-8d43-a11e93db0295)
