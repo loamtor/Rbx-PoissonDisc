@@ -40,3 +40,6 @@ ThreeThreeFourThreeFour tesselation in circle:
 
 ![image](https://github.com/loamtor/Rbx-PoissonDisc/assets/118779491/89dee326-b6f2-4707-bfe5-a58679f8858a)
 
+Ulam points in circle:
+
+![image](https://github.com/loamtor/Rbx-PoissonDisc/assets/118779491/e1618bb2-7c51-4a52-bf7f-f12d48d3cef4)
