@@ -35,3 +35,8 @@ PoissonDisc in Rectangular Prism (3d) without connections shown:
 PoissonDisc in Rectangular Prism (3d) + connection Visualizer:
 
 ![image](https://github.com/loamtor/Rbx-PoissonDisc/assets/118779491/f8ec8f8a-b8b6-4b42-a948-bd73ca8607b4)
+
+ThreeThreeFourThreeFour tesselation in circle:
+
+![image](https://github.com/loamtor/Rbx-PoissonDisc/assets/118779491/89dee326-b6f2-4707-bfe5-a58679f8858a)
+
