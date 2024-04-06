@@ -2,7 +2,7 @@
 A library for poisson-disc related tasks in Roblox
 
 Note that when using some of the functions (other than those found in PoissonDisc.lua), if they return a table of points it may be flattened
-(e.g. in the form { x, y, x1, y1, x2, y2 } rather than as a table of point tables { {x, y}, {x, y}, {x, y} }
+(e.g. in the form { x, y, x1, y1, x2, y2, ... } rather than as a table of point tables { {x, y}, {x, y}, {x, y}, ... }
 
 How I organize the scripts:
 
