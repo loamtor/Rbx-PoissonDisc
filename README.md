@@ -23,6 +23,10 @@ PolarPhyllotaxicSpiralsOnSphere:
 
 ![image](https://github.com/loamtor/Rbx-PoissonDisc/assets/118779491/7c31f9a1-487a-41a4-8e87-b4d2f634a77e)
 
-PoissonDiscRectangle (with connection Visualizer):
+PoissonDisc in Rectangle (with connection Visualizer):
 
 ![image](https://github.com/loamtor/Rbx-PoissonDisc/assets/118779491/b13a7846-7eb0-41ec-bd5f-05d109285d03)
+
+PoissonDisc in Rectangular Prism (3d) + connection Visualizer:
+
+![image](https://github.com/loamtor/Rbx-PoissonDisc/assets/118779491/f8ec8f8a-b8b6-4b42-a948-bd73ca8607b4)
