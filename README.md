@@ -11,3 +11,9 @@ How I organize the scripts:
     - PoissonDisc
     - Tesselation
 - I put Test scripts in ServerScriptService.
+
+Examples:
+
+PolarPhyllotaxicSpiralsOnSphere:
+
+![image](https://github.com/loamtor/Rbx-PoissonDisc/assets/118779491/7c31f9a1-487a-41a4-8e87-b4d2f634a77e)
