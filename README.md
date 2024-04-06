@@ -48,6 +48,6 @@ PolarPhyllotaxicSpiralsOnSphere:
 
 ![image](https://github.com/loamtor/Rbx-PoissonDisc/assets/118779491/7c31f9a1-487a-41a4-8e87-b4d2f634a77e)
 
-(Bonus) PoissonDisc being used to generate foliage, etc.:
+(Bonus) PoissonDisc being used for the placement of foliage:
 
 ![image](https://github.com/loamtor/Rbx-PoissonDisc/assets/118779491/1227d3d0-1be0-4a71-9ced-a01839a6db12)
