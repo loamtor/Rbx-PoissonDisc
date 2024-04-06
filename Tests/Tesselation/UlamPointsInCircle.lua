@@ -2,12 +2,13 @@
 
 -- Services:
 
+local ServerStorage         =   game:GetService("ServerStorage")
 local ReplicatedStorage     =   game:GetService("ReplicatedStorage")
 
 -- Libraries:
 
 local Debug             =   require(ReplicatedStorage["Debug"])
-local Algaerhythms      =   ReplicatedStorage["Algaerhythms"]
+local Algaerhythms      =   ServerStorage["Algaerhythms"]
 
 local PointDistribution =   require(Algaerhythms["PointDistribution"])
 local Tesselation       =   PointDistribution["Tesselation"]
