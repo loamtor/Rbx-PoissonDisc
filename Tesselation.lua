@@ -1,5 +1,7 @@
 --!strict
 
+-- note that some functions that return a table of points may be flattened like {x, y, x1, y1, x2, y2} rather than a table of point tables (e.g. {{x, y}, {x, y}, {x, y}}
+
 local Tesselation = {}
 
 local abs       =   math.abs
@@ -20,21 +22,21 @@ local tinsert   =   table.insert
 local tfreeze   =   table.freeze
 local tclone    =   table.clone
 
-local CornerVectors :({number}) = table.freeze({
+local CornerVectors :({number}) = tfreeze({
     1, -1,
     -1, -1,
     -1, 1,
     1, 1
 })
 
-local SideDirections:({number}) = table.freeze({
+local SideDirections:({number}) = tfreeze({
     -1, 0,
     0, 1,
     1, 0,
     0, -1
 })
 
-local ThreeThreeFourThreeFourCandidates :({number}) = table.freeze({
+local ThreeThreeFourThreeFourCandidates :({number}) = tfreeze({
     0, 1, -- [xx, yy + halfUnit]
     2, 1, -- [xx + 2 * halfUnit, yy + halfUnit]
     1, -1, -- [xx + halfUnit, yy - halfUnit]
